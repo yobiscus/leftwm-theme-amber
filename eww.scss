@@ -1,26 +1,26 @@
-// Amber
+// Gruvbox
 * {
   all: unset; //Unsets everything so you can style everything from scratch
 }
 
 //Global Styles
 .bar0 {
-  background-color: #1E1F29;
-  color: #F8F8F2;
+  background-color: #3C3836;
+  color: #EBDBB2;
   padding: 0;
   border-bottom: 2px solid;
-  border-color: #FFB300;
+  border-color: #D79921;
   border-radius: 0;
   font-family: Iosevka Nerd Font;
   font-size: 13px;
 }
 
 .bar1 {
-  background-color: #1E1F29;
-  color: #F8F8F2;
+  background-color: #3C3836;
+  color: #EBDBB2;
   padding: 0;
   border-bottom: 2px solid;
-  border-color: #FFB300;
+  border-color: #D79921;
   border-radius: 0;
   font-family: Iosevka Nerd Font;
   font-size: 13px;
@@ -35,7 +35,7 @@
 
 .metric scale trough highlight {
   all: unset;
-  background-color: #FFB300;
+  background-color: #D79921;
   color: #000000;
   border-radius: 10px;
 }
@@ -50,7 +50,7 @@
 }
 .metric scale trough highlight {
   all: unset;
-  background-color: #FFB300;
+  background-color: #D79921;
   color: #000000;
   border-radius: 10px;
 }
@@ -70,24 +70,24 @@
 }
 
 .ws-button-mine {
-  color: #1E1F29;
-  background-color: #FFB300;
+  color: #3C3836;
+  background-color: #D79921;
   border-radius: 4px;
 }
 .ws-button-visible {
-  color: #FFB300;
+  color: #D79921;
 }
 .ws-button-busy {
   color: #E8BC0C;
 }
 .ws-button {
-  color: #F8F8F2;
+  color: #EBDBB2;
 }
 
 .ws-layout {
   all: unset;
-  color: #1E1F29;
-  background-color: #FFB300;
+  color: #3C3836;
+  background-color: #D79921;
   border-radius: 0;
   padding-left: 15px;
   padding-right: 15px;
@@ -97,8 +97,8 @@
 }
 
 .box-launcher {
-  background-color: #FFB300;
-  color: #1E1F29;
+  background-color: #D79921;
+  color: #3C3836;
   font-size: 1.1em;
   font-weight:bold;
 }
@@ -110,5 +110,5 @@
 
 .clock {
   margin-right: 20px;
-  color: #F8F8F2;
+  color: #EBDBB2;
 }
